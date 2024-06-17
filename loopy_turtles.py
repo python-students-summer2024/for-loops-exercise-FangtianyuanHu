@@ -132,3 +132,4 @@ def draw_star(
             t.right(smaller_angle)
         else:
             t.left(smaller_angle)  
+    t.end_fill()
